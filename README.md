@@ -76,7 +76,7 @@
 
 #### 🔹 EDA
 
-> 변수 간 관계 분석을 위한 통계 분석 및 변수 중요도 탐색 : 회귀분석 (XGBoost, Randomforest, Linear Regression) , ID 기준 5진 분류분석 
+> 변수 간 관계 분석을 위한 통계 분석 및 변수 중요도 탐색 : 회귀분석 (XGBoost, Randomforest, Linear Regression) , ID 기준 5진 분류분석 (GradientBoosting, xgboost, lightgbm)
 
 > 변수 중요도 결과를 바탕으로, 사용자가 작품을 고를 때 중요하게 고려하는 요소를 선정하여 가중치 부여 기준 변수로 활용
 
