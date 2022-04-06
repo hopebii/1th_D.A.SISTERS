@@ -26,7 +26,7 @@
 
 〰️ 문소연(전처리,통계분석, 백엔드) moonsy0221@ewhain.net
 
-〰️ 이지원(팀 작업 총괄 멘토, 프론트엔드, 모델링 로직 설계) jiddoly@gmail.com
+〰️ 이지원(팀 작업 총괄 멘토, 프론트엔드) jiddoly@gmail.com
 
 〰️ 이다현(팀장, CB 모델링, 백엔드) dahyun3422@gmail.com
 
